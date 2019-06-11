@@ -5,3 +5,4 @@ This folder includes Kubernetes manifests for installing NGINX or NGINX Plus Ing
 
 
 # kubernetes-ingress
+# kubernetes-ingress
