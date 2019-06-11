@@ -1,7 +1,6 @@
 # Installation
 
-This folder includes Kubernetes manifests for installing NGINX or NGINX Plus Ingress controller. Read the installation instructions [here](../docs/installation.md).
-
+This folders includes Kubernetes manifests for installing NGINX or NGINX Plus Ingress controller.
 
 1) first install ingress with this instruction https://github.com/nginxinc/kubernetes-ingress/blob/master/docs/installation.md
 
